@@ -5,6 +5,7 @@ University Group Project - Design &amp; GUI
 It's been designed in Adobe XD.
 
 [FingerDash - Employee Flow](https://xd.adobe.com/view/009518b6-40b0-41c9-ab83-bff11bbc8d13-55c6/)
+
 [FingerDash - Manager Flow](https://xd.adobe.com/view/fe1be1ca-cf7b-49a0-8623-061b81443dfb-ab48/)
 
 ### Splash Screen
