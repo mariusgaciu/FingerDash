@@ -9,5 +9,6 @@ It's been designed in Adobe XD.
 
 ### Splash Screen
 <img width="1192" alt="01  Splash Screen" src="https://user-images.githubusercontent.com/54765456/155218029-db7a2942-b3e5-4007-b631-1ac778e04460.png">
-### Clock-in/out View
+
+### Clock-in out View
 <img width="1192" alt="02  Clock-in:out View" src="https://user-images.githubusercontent.com/54765456/155218071-a26f681f-8ece-4ddd-aaaf-23dbd5cab9da.png">
